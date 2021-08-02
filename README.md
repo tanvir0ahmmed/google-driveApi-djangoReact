@@ -1,0 +1,5 @@
+- ### google-driveApi-djangoReact
+- ### Project Name: Given google drive file or folder permission application using django rest-framework and react.
+- ### Project Description<hr/>
+	- ###By given email and drive file or folder name can provide permission to access or revoke drive folder/file. For implement this project use drf as api and react for cliend side/ frontend.
+- ### Project Demo: please [click here](https://react-001ta.herokuapp.com/)
